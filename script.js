@@ -27,6 +27,7 @@ function signup(){
     
     localStorage.setItem("data" , JSON.stringify(u_data));
     window.alert("Signed Up Successfully")
+    location.href = "./index.html"
 }
 
 
