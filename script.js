@@ -26,6 +26,7 @@ function signup(){
     u_data.push(n_obj)
     
     localStorage.setItem("data" , JSON.stringify(u_data));
+    window.alert("Signed Up Successfully")
 }
 
 
