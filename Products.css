@@ -1,0 +1,16 @@
+#search{
+    display: flex;
+    flex-wrap: wrap;
+}
+#icon-logout{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.btn{
+    height: 35px;
+}
+
+.item-card{
+    display: inline-block;
+}

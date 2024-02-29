@@ -1,0 +1,24 @@
+body{
+    background-image: url("https://img.freepik.com/premium-photo/hand-pushing-shopping-cart-trolley-blue-background_33874-314.jpg?size=626&ext=jpg&ga=GA1.1.1838628766.1709105187&semt=ais");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#form{
+    height: 400px;
+    margin-top: 170px;
+}
+
+.form1{
+    margin-top: 70px;
+}
+
+.form2{
+    margin-top: 30px;
+}
+
+#head{
+    margin-top: 325px;
+    color: orangered;
+}
