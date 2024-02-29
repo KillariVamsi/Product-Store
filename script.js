@@ -26,8 +26,7 @@ function signup(){
     u_data.push(n_obj)
     
     localStorage.setItem("data" , JSON.stringify(u_data));
-    window.alert("Signed Up Successfully")
-    location.assign("https://product-store-js.vercel.app/index.html")
+    window.alert("Signed Up Successfully, Click on Login")
 }
 
 
